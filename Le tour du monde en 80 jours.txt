@@ -4110,3 +4110,5 @@ Ainsi donc Phileas Fogg avait gagné son pari. Il avait accompli en quatre-vingt
 Rien, dira-t-on ? Rien, soit, si ce n’est une charmante femme, qui — quelque invraisemblable que cela puisse paraître — le rendit le plus heureux des hommes !
 
 En vérité, ne ferait-on pas, pour moins que cela, le Tour du Monde ?
+
+FIN
