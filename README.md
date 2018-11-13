@@ -2,7 +2,7 @@
 
 ## Dossier pour le cours d'Indexation
 
-Lien -> Dossier
+Voici le [document explicatif](https://github.com/xXADavid999/Antoine_David_Tour_du_monde_en_80_jours/blob/master/Description_dossier.md) pour résumer mon travail sur l'oeuvre de Jules Verne.
 
 Antoine David
 M2 DNHD
