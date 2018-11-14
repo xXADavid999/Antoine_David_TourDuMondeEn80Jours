@@ -37,4 +37,6 @@ Comme l'oeuvre étudiée possède 37 chapitres, il m'est également possible d'e
 
 ![représentation statistiques des fréquences sur l'ensemble de l'oeuvre](https://github.com/xXADavid999/Antoine_David_Tour_du_monde_en_80_jours/blob/master/Visualisations/Statistiques%20totales.PNG)
 
-Ce graphique est issu de l'outil stastistique d'Iramuteq. On retrouve sur l'axe des ordonnées la fréquence des mots cités, et sur l'axe des abscisses la quantité d'occurrences. Sans surprise, on retouve une petite quantité de mots cités beaucoup de fois, et une grande quantité de mots peu cités.
+Ce graphique est issu de l'outil stastistique d'Iramuteq. On retrouve sur l'axe des ordonnées la fréquence des mots cités, et sur l'axe des abscisses la quantité d'occurrences. Sans surprise, on retouve une petite quantité de mots cités beaucoup de fois, et une grande quantité de mots peu cités.  
+
+![nuage de mots sur l'ensemble de l'oeuvre](https://github.com/xXADavid999/Antoine_David_Tour_du_monde_en_80_jours/blob/master/Visualisations/nuage_1_total.png)
