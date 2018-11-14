@@ -17,6 +17,24 @@ Je suis allé sur le site du Projet Gutenberg pour trouver *Le tour du monde en 
 
 ## Les fichiers en .CSV des occurences
 
+Les visualisations issues d'Iramuteq proviennent d'analyses statistiques que l'on peut retrouver dans les .CSV suivants :
+
++ [total.csv](https://github.com/xXADavid999/Antoine_David_Tour_du_monde_en_80_jours/blob/master/CSV/total.csv) : sur ce document on retrouve l'ensemble de mots par fréquence décroissante.
++ [formes_actives.csv](https://github.com/xXADavid999/Antoine_David_Tour_du_monde_en_80_jours/blob/master/CSV/formes_actives.csv) : sur ce document, on trouve  la liste   des   formes/mots   actifs (avec   leur   catégorie grammaticale) par fréquences décroissantes. 
+
+Iramuteq résume les statisques générales comme : 
++ Nombre de textes : 37
++ Nombre d'occurrences : 71179
++ Nombre de formes : 5600
++ Nombre d'hapax : 2360 (3,32% des occurrences - 42,14% des formes)
++ Moyenne d'occurrences par texte : 1923,76
+
+Le nombre de texte fait référence à mes variables qui représentent les 37 chapitres du roman.
+
+Comme l'oeuvre étudiée possède 37 chapitres, il m'est également possible d'extraire des CSV pour chaque chapitre ou par regroupement arbitraire de chapitre.
 
 ## Visualisation de données 
 
+![représentation statistiques des fréquences sur l'ensemble de l'oeuvre](https://github.com/xXADavid999/Antoine_David_Tour_du_monde_en_80_jours/blob/master/Visualisations/Statistiques%20totales.PNG)
+
+Ce graphique est issu de l'outil stastistique d'Iramuteq. On retrouve sur l'axe des ordonnées la fréquence des mots cités, et sur l'axe des abscisses la quantité d'occurrences. Sans surprise, on retouve une petite quantité de mots cités beaucoup de fois, et une grande quantité de mots peu cités.
