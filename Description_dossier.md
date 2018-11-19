@@ -42,4 +42,4 @@ Ce graphique est issu de l'outil stastistique d'Iramuteq. On retrouve sur l'axe 
 
 ![nuage de mots sur l'ensemble de l'oeuvre](https://github.com/xXADavid999/Antoine_David_Tour_du_monde_en_80_jours/blob/master/Visualisations/nuage_1_total.png)
 
-Ce nuage de mots représente les 200 occurrences les plus présentes
+Ce nuage de mots représente les 200 occurrences les plus présentes sur l'ensemble de l'oeuvre. Sans surprise, on retrouve les personnages principaux, mais aussi des thématiques autour du voyage et du temps.
