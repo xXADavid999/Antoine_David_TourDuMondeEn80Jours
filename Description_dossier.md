@@ -38,8 +38,13 @@ Comme l'oeuvre étudiée possède 37 chapitres, il m'est également possible d'e
 
 ![représentation statistiques des fréquences sur l'ensemble de l'oeuvre](https://github.com/xXADavid999/Antoine_David_Tour_du_monde_en_80_jours/blob/master/Visualisations/Statistiques%20totales.PNG)
 
-Ce graphique est issu de l'outil stastistique d'Iramuteq. On retrouve sur l'axe des ordonnées la fréquence des mots cités, et sur l'axe des abscisses la quantité d'occurrences. Sans surprise, on retouve une petite quantité de mots cités beaucoup de fois, et une grande quantité de mots peu cités.  
+Ce graphique est issu de l'outil statistique d'Iramuteq. On retrouve sur l'axe des ordonnées la fréquence des mots cités, et sur l'axe des abscisses la quantité d'occurrences. Sans surprise, on retouve une petite quantité de mots cités beaucoup de fois, et une grande quantité de mots peu cités.  
 
 ![nuage de mots sur l'ensemble de l'oeuvre](https://github.com/xXADavid999/Antoine_David_Tour_du_monde_en_80_jours/blob/master/Visualisations/nuage_1_total.png)
 
-Ce nuage de mots représente les 200 occurrences les plus présentes sur l'ensemble de l'oeuvre. Sans surprise, on retrouve les personnages principaux, mais aussi des thématiques autour du voyage et du temps.
+Ce nuage de mots représente les 200 occurrences les plus présentes sur l'ensemble de l'oeuvre. En mots les plus cités on retrouve les personnages principaux, mais aussi des thématiques autour du voyage et du temps.
+
+![nuage de mots comparant les chapitres 1 et 37](https://github.com/xXADavid999/Antoine_David_TourDuMondeEn80Jours/blob/master/Visualisations/nuagemot_chap1chap37.png)
+
+Pour ce graphique, j'ai utilisé mes variables pour permettre une comparaison entre différents chapitres, ici le premier et le dernier. J'ai repris les mêmes paramètres que le précédent. Il est possible de combiner les chapitres à volonté pour comparer certains passages.
+
