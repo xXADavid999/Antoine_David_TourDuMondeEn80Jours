@@ -1,6 +1,6 @@
 # Description du dossier sur *Le tour du monde en 80 jours* de Jules Verne
 
-Ce dossier constitue une étude du texte *Le tour du monde en 80 jours* de Jules Verne, notamment avec l'utilisation d'Iramuteq pour créer des visualisations à partir de statistiques issues de cette oeuvre. Il a fallu récupérer le texte intégral pour pouvoir l'encoder afin de l'étudier avec Iramuteq. Grâce aux visualisations, je pourrais mettre en avant les rapports et thèmes de l'oeuvre.
+Ce dossier constitue une étude du texte *Le tour du monde en 80 jours* de Jules Verne, notamment avec l'utilisation d'Iramuteq pour créer des visualisations à partir de statistiques issues de cette oeuvre. Il a fallu récupérer le texte intégral pour pouvoir l'encoder afin de l'étudier avec Iramuteq. Grâce aux visualisations, un spécialiste pourra mettre en avant les rapports et thèmes de l'oeuvre.
 
 ## Récupération du texte et encodage
 
@@ -48,3 +48,10 @@ Ce nuage de mots représente les 200 occurrences les plus présentes sur l'ensem
 
 Pour ce graphique, j'ai utilisé mes variables pour permettre une comparaison entre différents chapitres, ici le premier et le dernier. J'ai repris les mêmes paramètres que le précédent. Il est possible de combiner les chapitres à volonté pour comparer certains passages.
 
+![Analyse des similitudes](https://github.com/xXADavid999/Antoine_David_TourDuMondeEn80Jours/blob/master/Visualisations/graph_simi_2.png)
+
+Ce graphique est issu de l'outil "analyses de similitudes", il permet de visualiser les mots les plus cités en fonction de leurs rapports aux autres mots. Par exemple, Phileas Fogg apparaît toujours au centre, car il est le personnage principal (Fogg possède 656 occurrences et Phileas 301).
+
+Pour faciliter la lecture, et essayer d'être plus concis, j'ai réduit le nombre de mots en choisissant seulement ceux qui ont 30 ou plus occurrences (ce qui donne 168 mots). J'ai également retiré les mots "Mr" et "Mrs" que je ne trouvais pas pertinent. J'ai utilisé de l'indice de cooccurrence et une présentation de type fruchterman reingold. J'ai également activé l'option pour afficher les regroupements par communautés visibles via les halos.
+
+J'aurais aimé améliorer la visualisation de ce graphique en utilisant Gephi, mais je n'ai pas réussi à le faire fonctionner sur mon ordinateur. De même pour l'outil pour afficher des graphiques selon la méthode de Reinert, j'ai à chaque fois eu des erreurs issues de R.
