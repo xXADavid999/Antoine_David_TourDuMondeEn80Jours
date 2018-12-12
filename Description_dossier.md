@@ -54,4 +54,12 @@ Ce graphique est issu de l'outil "analyses de similitudes", il permet de visuali
 
 Pour faciliter la lecture, et essayer d'être plus concis, j'ai réduit le nombre de mots en choisissant seulement ceux qui ont 30 ou plus occurrences (ce qui donne 168 mots). J'ai également retiré les mots "Mr" et "Mrs" que je ne trouvais pas pertinent. J'ai utilisé de l'indice de cooccurrence et une présentation de type fruchterman reingold. J'ai également activé l'option pour afficher les regroupements par communautés visibles via les halos.
 
-J'aurais aimé améliorer la visualisation de ce graphique en utilisant Gephi, mais je n'ai pas réussi à le faire fonctionner sur mon ordinateur. De même pour l'outil pour afficher des graphiques selon la méthode de Reinert, j'ai à chaque fois eu des erreurs issues de R.
+![Graphique Méthode de Reinert](https://github.com/xXADavid999/Antoine_David_TourDuMondeEn80Jours/blob/master/Visualisations/dendrogramme_2.png)
+
+Sur ce graphique issu de la méthode Reinert, j'ai volontairement choisi de laisser 5 classes, qui ne peuvent retranscrire que de manière partielle la représentation des classes sur toute l'oeuvre. Je trouvais plus pertinent de faire ainsi, car on retrouve nos familles de manière assez similaire à nos premiers graphiques. J'ai essayé en augmentant le nombre de classe, mais à cause du volume de l'oeuvre, on perdait en lisibilité avec un trop grand nombre de classes. En revanche, la méthode Reinert pourrait être pertinente à plus petite échelle, notamment sur des chapitres ou des regroupements de chapitres.
+
+![AFC de la Méthode de Reinert](https://github.com/xXADavid999/Antoine_David_TourDuMondeEn80Jours/blob/master/Visualisations/AFC2DL.png)
+
+Ce deuxième est l'AFC (analyse factorielle des correspondances) issu du dendrogamme fait avec la méthode de Reinert. On retrouve nos 5 grandes classes avec trois qui sont regroupées (les personnages, des lieux, des actions), et les deux autres sont isolées. La classe rouge apparrait lié au champ lexical de la locomotion, tandis que le gris contient de mots liés à la description. Les mots ont également une taille proportionnelle à leur nombre d'occurrence dans le texte.
+
+J'aurais aimé améliorer la visualisation de ce graphique en utilisant Gephi, mais je n'ai pas réussi à le faire fonctionner sur mon ordinateur. 
