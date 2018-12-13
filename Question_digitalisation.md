@@ -1,6 +1,6 @@
 # En quoi la digitalisation de l'oeuvre permet-elle d'envisager de nouvelles possibilités en Humanités Digitales ?  
   
-  //  REVOIR TOUTE L'INTRO
+## Introduction //  REVOIR TOUTE L'INTRO
   
 La digitalisation de l'oeuvre va engendrer beaucoup de changements au sein des Humanités Digitales. Dans un premier temps, le nombre d'oeuvres accessibles va grandement augmenter, ce qui permettra aux chercheurs d'avoir accès à plus de ressources pour traiter de certains sujets. Cependant l'exhaustivité totale devient presque impossible sur certains sujets / thèmes, à cause du trop grand nombre d'oeuvres. 
 
@@ -15,9 +15,20 @@ Pour revenir sur la digitalisation en elle-même, cela soulève également de no
 En augmentant le nombre d'oeuvres, la question des corpus devient alors essentielle. Il faut être en mesure de légitimer son choix du corpus. Cette question était déjà importante avant le processus de digitalisation des oeuvres, mais il me semble qu'elle devient primordiale aujourd'hui pour réaliser une étude ou faire de la recherche de manière efficace. Etre exhaustif semble compliqué voire impossible aujourd'hui, hormis sur des thématiques très réduites, tant le nombre d'articles, d'oeuvrages, de mémoires ou de thèses devient important. Les critères pour choisir et surtout délimiter un corpus deviennent essentiels. La quantité de ressources disponibles transforme le rapport aux documents, il faut donc s'adapter en conséquence, en choisissant des méthodes pour restreindre le corpus. L'enjeu porte désormais autant sur l'accessibilité des documents que sur la délimitation du champ d'étude.
 
 Dans une dimension propre à l'oeuvre, la digitalisation ouvre beaucoup de nouveaux champs notamment grâce à l'optical character recognition (OCR). Naviguer entre les pages et les chapitres devient extrêmement facile, de même que le fait de pouvoir faire une recherche plein texte, pour trouver un ou des occurrences, permet de gagner du temps, et d'envisager de nouvelles méthodes d'analyses. Par exemple, comme nous nous avons pu l'essayer avec nos corpus, en encodant très simplement le texte selon les chapitres, les visualisations qu'Iramuteq permet de faire sont un réel plus pour étayer une hypothèse ou découvrir une relation sémantique. De plus, il devient possible de faire une analyse statistique sur l'ensemble de l'oeuvre. C'était également le cas auparavent, toutefois, c'était un travail incroyablement chronophage et assez ingrat. La digitalisation ajoute une dimension informatique aux oeuvres, ce qui permet non seulement l'émergence de nouveaux outils, mais aussi de nouvelles méthodes de travail. Cependant je pense qu'un travail de médiation est nécessaire pour élargir l'utilisation de ces outils. Si dans le monde des Humanités Digitales, les chercheurs sont familiers avec ces possibilités, ce n'est peut-être pas toujours le cas dans les autres domaines universitaires.  
-De même, cela complexifie le travail du chercheur, dans le sens, où on perd cette image du chercheur seul avec ses textes en train de chercher l'argument ou l'élément clé pour valider ou non sa théorie. Ces nouveaux outils requièrent des connaissances informatiques, voire statistiques, soit le chercheur s'auto-forme, soit il doit travailler avec un ingénieur de recherche. Et dans ce second cas, cela nécessite une communication claire pour les deux personnes. Si l'informatique ouvre beaucoup de possibilités, il faut encore choisir les plus pertinentes en fonction d'une oeuvre.
+De même, cela complexifie le travail du chercheur, dans le sens, où on perd cette image du chercheur seul avec ses textes en train de chercher l'argument ou l'élément clé pour valider ou non sa théorie. Ces nouveaux outils requièrent des connaissances informatiques, voire statistiques, soit le chercheur s'auto-forme, soit il doit travailler avec un ingénieur de recherche. Et dans ce second cas, cela nécessite une communication claire pour les deux personnes, chacun doit comprendre ce que l'autre veut faire. Si l'informatique ouvre beaucoup de possibilités, il faut encore choisir les fonctions les plus pertinentes en fonction d'une oeuvre.
 
-## Construire
+## Vers une digitalisation normée ?
+
+La digitalisation entraîne beaucoup de changements, les Humanités Digitales n'y échappe pas. Cependant, celle-ci doit être encadrée, et cela devient une nécessité pour assurer la perennité de la digitilisation. Si celle-ci devient inutilisable dans quelques années, ou partiellement obsolète pour des raisons techniques, il n'en deviendra que plus complexe pour accèder à certaines oeuvres. En partant des travaux de Marin Dacos et de Pierre Mournier sur l'édition numérique, on trouve une réflexion sur l'aspect technique de l'édition numérique, cependant ces réflexions peuvent être élargies à l'ensemble du processus de digitalisation. En synthétisant leurs travaux, certains points apparaissent comme essentiels :
++ Les métadonnées
++ Les formats
++ L'usabilité
+
+Méta
+
+Format
+
+Usabilité
 
 
 
@@ -30,5 +41,11 @@ De même, cela complexifie le travail du chercheur, dans le sens, où on perd ce
 
 
 
+## Conlusion
 
+blabla
 
+## Bibliographie
+
+blabla
+blabla
